@@ -35,7 +35,7 @@ This tool is made for you. ⚔️
 
 ---
 
-## 📸 Working
+## 📸 Workflow
 
 ![Demo](https://github.com/7urb4nat0r/BurpXtract/blob/main/workflow.gif)
 
