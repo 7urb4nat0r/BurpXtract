@@ -31,7 +31,7 @@ This tool is made for you. ⚔️
 | 🔍 Filter Requests | Search GET, POST, status codes, MIME types, and more |
 | 💥 Send to Tools | Right-click → Send to Repeater or Intruder |
 | 🧼 Clear History | Instantly clear parsed entries from view |
-| 🎨 Native UI | Seamless integration with Burp's UI (Swing) |
+| 🎨 Native UI | Seamless integration with Burp's UI |
 
 ---
 
@@ -47,4 +47,15 @@ _(Drop some cool UI screenshots here — show off that clean layout, sortable he
 1. Clone this repo:
    ```bash
    git clone https://github.com/7urb4nat0r/BurpXtract/
+2. Download the latest version of Burp Suite (Community Edition). Place the downloaded JAR (e.g., burpsuite_community.jar) inside the BurpXtract directory
+3.Make sure Java 21 or later is installed:
+   ```bash
+   java -version
+4. Compile the Java source code:
+   ```bash
+   javac -cp src/burpsuite_community.jar -d out src/burp/*.java
+5. Package the compiled classes into a JAR:
+   ```bash
+   jar cf BurpXtract.jar -C out . 
+6. Load the extension in Burp Suite: Open Burp ==> Go to Extensions > Add ==> Select BurpXtract.jar ==> Click Next
    
