@@ -43,6 +43,10 @@ _(Drop some cool UI screenshots here — show off that clean layout, sortable he
 
 ## 🚀 How to Use
 
+### Directly Load the extension
+1. Downlod the BurpXtract,jar
+2. Load the extension in Burp Suite: Open Burp ==> Go to Extensions > Add ==> Select BurpXtract.jar ==> Click Next
+
 ### 💻 Install from Source
 1. Clone this repo:
    ```bash
