@@ -35,9 +35,10 @@ This tool is made for you. ⚔️
 
 ---
 
-## 📸 Screenshots
+## 📸 Working
 
-_(Drop some cool UI screenshots here — show off that clean layout, sortable headers, and filters)_
+![Demo](https://github.com/7urb4nat0r/BurpXtract/blob/main/workflow.gif)
+
 
 ---
 
