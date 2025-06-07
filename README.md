@@ -1,5 +1,5 @@
-# BurpXtract
-BurpXtract is a Burp Suite extension that allows you to import .xml files (exported HTTP history from Burp) and view them as fully interactive request/response entries — just like Burp's native proxy tab.
+# BurpXtract (XML Viewer)
+BurpXtract (XML Viewer) is a Burp Suite extension that allows you to import .xml files (exported HTTP history from Burp) and view them as fully interactive request/response entries — just like Burp's native proxy tab.
 
 ![Built for Burp Suite](https://img.shields.io/badge/Built%20for-Burp%20Suite-orange?style=for-the-badge)
 ![Made with AI](https://img.shields.io/badge/Made%20with-AI-blueviolet?style=for-the-badge)
