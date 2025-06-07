@@ -30,7 +30,7 @@ public class BurpExtender implements IBurpExtender, ITab {
 
     @Override
     public String getTabCaption() {
-        return "BurpXtract";
+        return "BurpXtract (XML Viewer)";
     }
 
     @Override
